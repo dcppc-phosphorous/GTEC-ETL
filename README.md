@@ -82,7 +82,7 @@ of the above path will not be present.
 The script that we use to build the Public Crosscut Metadata Instance is called `make-crosscut-instance-bdbag.sh`
 and can be found in the top level of this repository:
 
-https://github.com/dcppc/crosscut-metadata/blob/master/make-crosscut-instance-bdbag.sh
+https://raw.githubusercontent.com/dcppc/crosscut-metadata/master/make-crosscut-instance-bdbag.sh
 
 The script contains the commands to perform the DATS metadata conversion for each of the currently supported
 data (sub)sets, but as the comments in the file indicate, the metadata flat files for each of the data
